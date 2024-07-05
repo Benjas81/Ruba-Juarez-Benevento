@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node11" apprev="17873" appversion="6.1.2">
+  <panorama id="node11">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="90"/>
+      <min tilt="-55" fovpixel="2" pan="-68"/>
+      <max fovstereographic="270" tilt="55" scaletofit="1" pan="68" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:05 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node11" copyright="" info="" tags="Imagenes|iNTERIOR" title="Caseta de Ingreso">
+      <mapcoords x="0.324097" y_floorplan_percent="96.4" x_floorplan_percent="15.7333" mapid="FloorPlan01" y="-2.64771"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node2}" skinid="ht_node" tilt="-1.88" target="" pan="-9.91" id="Ingreso" title="Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:05 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node2" copyright="" info="" tags="Imagenes|iNTERIOR" title="Ingreso">
+      <mapcoords x="0.483398" y_floorplan_percent="89.6" x_floorplan_percent="23.4667" mapid="FloorPlan01" y="-2.46094"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node3}" skinid="ht_node" tilt="-4.01" target="" pan="-11.49" id="Tren de Fachadas" title="Tren de Fachadas 01"/>
+      <hotspot description="" url="{node11}" skinid="ht_node" tilt="-0.93" target="" pan="-246.4" id="ingreso" title="Caseta de Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node3" copyright="" info="" tags="Imagenes|iNTERIOR" title="Tren de Fachadas 01">
+      <mapcoords x="0.6427" y_floorplan_percent="72.6" x_floorplan_percent="31.2" mapid="FloorPlan01" y="-1.99402"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node4}" skinid="ht_node" tilt="-0.64" target="" pan="-2" id="Juegos" title="Juegos 01"/>
+      <hotspot description="" url="{node2}" skinid="ht_node" tilt="-2.01" target="" pan="-186.47" id="Tren de Fachadas" title="Ingreso"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.43" projection="4" pan="52.88" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node4" copyright="" info="" tags="Imagenes|iNTERIOR" title="Juegos 01">
+      <mapcoords x="0.725098" y_floorplan_percent="57.2" x_floorplan_percent="35.2" mapid="FloorPlan01" y="-1.57104"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node5}" skinid="ht_node" tilt="-8.16" target="" pan="-345.96" id="Asadores" title="Asadores"/>
+      <hotspot description="" url="{node3}" skinid="ht_node" tilt="-2.92" target="" pan="-175.35" id="Tren de Fachadas" title="Tren de Fachadas 01"/>
+      <hotspot description="" url="{node6}" skinid="ht_node" tilt="-2.41" target="" pan="-359.18" id="Pergolas" title="Pergolas 01"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.64" projection="4" pan="45.88" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node5" copyright="" info="" tags="Imagenes|iNTERIOR" title="Asadores">
+      <mapcoords x="0.736084" y_floorplan_percent="52.6" x_floorplan_percent="35.7333" mapid="FloorPlan01" y="-1.4447"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node6}" skinid="ht_node" tilt="-0.09" target="" pan="-0.55" id="Pergolas" title="Pergolas 01"/>
+      <hotspot description="" url="{node4}" skinid="ht_node" tilt="-8.64" target="" pan="-180.42" id="Juegos" title="Juegos 01"/>
+      <hotspot description="" url="{node3}" skinid="ht_node" tilt="-2" target="" pan="-172.52" id="Tren de Fachadas" title="Tren de Fachadas 01"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node6" copyright="" info="" tags="Imagenes|iNTERIOR" title="Pergolas 01">
+      <mapcoords x="0.774536" y_floorplan_percent="44" x_floorplan_percent="37.6" mapid="FloorPlan01" y="-1.2085"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node10}" skinid="ht_node" tilt="-1.16" target="" pan="-347.99" id="Tren de Fachadas" title="Tren de Fachadas 02"/>
+      <hotspot description="" url="{node5}" skinid="ht_node" tilt="-1.91" target="" pan="-177.37" id="Asadores" title="Asadores"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="-59.95" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node10" copyright="" info="" tags="Imagenes|iNTERIOR" title="Tren de Fachadas 02">
+      <mapcoords x="0.873413" y_floorplan_percent="18" x_floorplan_percent="42.4" mapid="FloorPlan01" y="-0.494385"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node7}" skinid="ht_node" tilt="-3.41" target="" pan="-84.67" id="Juegos" title="Juegos 02"/>
+      <hotspot description="" url="{node6}" skinid="ht_node" tilt="-0.2" target="" pan="-188.73" id="Pergolado" title="Pergolas 01"/>
+      <hotspot description="" url="{node8}" skinid="ht_node" tilt="-0.78" target="" pan="-77.58" id="Pergolado" title="Pergolas 02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.19" projection="4" pan="-142.07" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node7" copyright="" info="" tags="Imagenes|iNTERIOR" title="Juegos 02">
+      <mapcoords x="1.08765" y_floorplan_percent="17" x_floorplan_percent="52.8" mapid="FloorPlan01" y="-0.466919"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node10}" skinid="ht_node" tilt="-2.66" target="" pan="-256.06" id="Tren de Fachadas" title="Tren de Fachadas 02"/>
+      <hotspot description="" url="{node8}" skinid="ht_node" tilt="-3.95" target="" pan="-81.49" id="Pergolas" title="Pergolas 02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.13" projection="4" pan="91.5" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node8" copyright="" info="" tags="Imagenes|iNTERIOR" title="Pergolas 02">
+      <mapcoords x="1.23596" y_floorplan_percent="18.2" x_floorplan_percent="60" mapid="FloorPlan01" y="-0.499878"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node7}" skinid="ht_node" tilt="-0.99" target="" pan="-279.83" id="Juegos" title="Juegos 02"/>
+      <hotspot description="" url="{node9}" skinid="ht_node" tilt="-4.59" target="" pan="-59.82" id="futbol" title="Cancha Futbol"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="1250" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="1250" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1250" width="1250" preload="0" predecode="0"/>
+      <level height="625" width="625" preload="0" predecode="0"/>
+      <level height="312" width="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.32" projection="4" pan="93.29" fov="70"/>
+      <flyin tilt="0.34" projection="4" pan="20.89" fov="70"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata description="" longitude="" datetime="04/07/2024 05:06 p.m." source="" latitude="" customnodeid="" comment="" author="" nodeid="node9" copyright="" info="" tags="Imagenes|iNTERIOR" title="Cancha Futbol">
+      <mapcoords x="1.37878" y_floorplan_percent="18.4" x_floorplan_percent="66.9333" mapid="FloorPlan01" y="-0.505371"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" borderradius="1" textcolor="0x000000" width="180" textalpha="1" background="1" backgroundalpha="1" border="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" url="{node8}" skinid="ht_node" tilt="-2.48" target="" pan="-251.62" id="Pergolas" title="Pergolas 02"/>
+      <hotspot description="" url="{node7}" skinid="ht_node" tilt="-0.11" target="" pan="-261.44" id="Juegos" title="Juegos 02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" blendtime="1" zoomout="0" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="0"/>
+    <control rubberband="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" contextfullscreen="1" lockedwheel="0" invertwheel="0" contextprojections="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" longitude="" datetime="" source="" latitude="" customnodeid="" comment="" author="" nodeid="master" copyright="" info="" tags="" title=""/>
+  </masternode>
+  <map height="500" bgcolor="rgba(255, 255, 255, 0)" type="file" zoomlevels="2" transparent="1" tileformat="png" width="375" floorplannorth="0" id="FloorPlan01" title=""/>
+</tour>
